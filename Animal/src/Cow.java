@@ -3,13 +3,13 @@ public class Cow extends Mammal
 	{
 		
 		protected void makesNoise(){
-			System.out.println("A");
+			System.out.println("WOOOOOOOOOOOOOOOOO~~~");
 		}
 
 		@Override
 		protected void eats()
 			{
-				System.out.println("A");
+				System.out.println("Three times a day");
 				
 			}
 		
