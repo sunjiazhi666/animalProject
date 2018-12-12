@@ -2,13 +2,13 @@
 public class Penguin extends Bird
 	{
 		protected void makesNoise(){
-			System.out.println("A");
+			System.out.println("WOOOOOOOOO~~~");
 		}
 
 		
 		protected void eats()
 			{
-				System.out.println("A");
+				System.out.println("Three times a day");
 				
 			}
 		public Penguin(String n, String f){
